@@ -1,0 +1,11 @@
+{
+  "name": "scouts-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/b3ar-soft/scouts-app",
+  "author": "Luis Manuel Torres Treviño",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  }
+}
